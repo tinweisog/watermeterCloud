@@ -20,7 +20,7 @@ public class ReportController {
     @RequestMapping(value = "/getAccount", method= RequestMethod.GET)
     public String index() {
         logger.info("in getAccount");
-        return "hello";
+        return "this is getAccount";
     }
 
 }
