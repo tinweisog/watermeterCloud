@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/serverdiscovery/server.discovery.iml" filepath="$PROJECT_DIR$/serverdiscovery/server.discovery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/account/service.account.iml" filepath="$PROJECT_DIR$/account/service.account.iml" />
+      <module fileurl="file://$PROJECT_DIR$/watermeterCloud.iml" filepath="$PROJECT_DIR$/watermeterCloud.iml" />
+    </modules>
+  </component>
+</project>
